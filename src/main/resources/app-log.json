@@ -1,0 +1,73 @@
+[
+  {
+    "_id": "tag:assignment.service,2015-03-19:1745",
+    "_class": "org.sample.assignment.model.ApplicationLog",
+    "applicationLogType": "GENERIC",
+    "threadNo": "thread1",
+    "moduleName": "logging module",
+    "message": "performing login from db",
+    "level": "INFO",
+    "applicationName": "shop",
+    "loggerName": "assignment.service"
+  },
+
+  {
+    "_id": "tag:assignment.service,2015-03-19:1747",
+    "_class": "org.sample.assignment.model.ApplicationLog",
+    "applicationLogType": "GENERIC",
+    "threadNo": "thread1",
+    "moduleName": "logging module",
+    "message": "performing login from cash",
+    "level": "INFO",
+    "applicationName": "shop",
+    "loggerName": "assignment.service"
+  },
+
+  {
+    "_id": "tag:assignment.service,2015-03-19:1748",
+    "_class": "org.sample.assignment.model.ApplicationLog",
+    "applicationLogType": "GENERIC",
+    "threadNo": "thread2",
+    "moduleName": "security module",
+    "message": "Verifying user credentials",
+    "level": "INFO",
+    "applicationName": "shop",
+    "loggerName": "assignment.service"
+  },
+
+  {
+    "_id": "tag:assignment.service,2015-03-19:1749",
+    "_class": "org.sample.assignment.model.ApplicationLog",
+    "applicationLogType": "GENERIC",
+    "threadNo": "thread4",
+    "moduleName": "checkout module",
+    "message": "moving items from basket to checkout process",
+    "level": "INFO",
+    "applicationName": "shop",
+    "loggerName": "assignment.service"
+  },
+
+  {
+  "_id": "tag:assignment.service,2015-03-19:1750",
+  "_class": "org.sample.assignment.model.ApplicationLog",
+  "applicationLogType": "GENERIC",
+  "threadNo": "thread2",
+  "moduleName": "registration module",
+  "message": "registering user",
+  "level": "INFO",
+  "applicationName": "portal",
+  "loggerName": "assignment.service"
+  },
+
+  {
+    "_id": "tag:assignment.service,2015-03-19:1753",
+    "_class": "org.sample.assignment.model.ApplicationLog",
+    "applicationLogType": "GENERIC",
+    "threadNo": "thread2",
+    "moduleName": "registration module",
+    "message": "rerouting user",
+    "level": "INFO",
+    "applicationName": "portal",
+    "loggerName": "assignment.service"
+  }
+]
