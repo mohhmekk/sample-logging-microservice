@@ -17,6 +17,7 @@ public class MongoAppenderInitializer implements InitializingBean {
      * The logger service name.
      */
     public final static String LOGGER_SERVICE_NAME = "assignment.service";
+
     @Autowired
     private MongoLog4jAppender mongoLog4jAppender;
 
