@@ -35,9 +35,9 @@ Note: search services search in all indexed fields in the collection, meaning se
 
 ## Architecture and design
 
-image:https://raw.githubusercontent.com/mohmekk/sample-logging-microservice/tree/master/docs/architecture.png [service architecture]
+![service architecture](https://raw.githubusercontent.com/mohhmekk/sample-logging-microservice/master/docs/architecture.png)
 
-image:https://raw.githubusercontent.com/mohmekk/sample-logging-microservice/tree/master/docs/sequence-diagram.png [Sample sequence diagram]
+![Sample sequence diagram](https://raw.githubusercontent.com/mohhmekk/sample-logging-microservice/master/docs/sequence-diagram.png)
 
 ## Run application
 
