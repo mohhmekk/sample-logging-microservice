@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../logging-service-client/client.iml" filepath="$PROJECT_DIR$/../logging-service-client/client.iml" />
       <module fileurl="file://$PROJECT_DIR$/logging-service.iml" filepath="$PROJECT_DIR$/logging-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logging-service.iml" filepath="$PROJECT_DIR$/logging-service.iml" />
     </modules>
   </component>
 </project>
